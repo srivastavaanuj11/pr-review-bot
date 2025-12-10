@@ -7,3 +7,4 @@ All notable changes to this project will be documented in this file.
 - Add OpenAI interface for PR review (2025-12-06)
 - Configure pyproject and dependencies (2025-12-07)
 - Add CLI entry point (2025-12-08)
+- Add schema for review suggestions (2025-12-10)
