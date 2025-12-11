@@ -8,3 +8,4 @@ All notable changes to this project will be documented in this file.
 - Configure pyproject and dependencies (2025-12-07)
 - Add CLI entry point (2025-12-08)
 - Add schema for review suggestions (2025-12-10)
+- Improve error handling and exceptions (2025-12-11)
