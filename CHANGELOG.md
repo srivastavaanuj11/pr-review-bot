@@ -9,3 +9,4 @@ All notable changes to this project will be documented in this file.
 - Add CLI entry point (2025-12-08)
 - Add schema for review suggestions (2025-12-10)
 - Improve error handling and exceptions (2025-12-11)
+- Update README and documentation (2025-12-12)
