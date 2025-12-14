@@ -10,3 +10,4 @@ All notable changes to this project will be documented in this file.
 - Add schema for review suggestions (2025-12-10)
 - Improve error handling and exceptions (2025-12-11)
 - Update README and documentation (2025-12-12)
+- Add git interface for local diffs (2025-12-14)
