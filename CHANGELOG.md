@@ -13,3 +13,4 @@ All notable changes to this project will be documented in this file.
 - Add git interface for local diffs (2025-12-14)
 - Refactor review pipeline (2025-12-15)
 - Update CHANGELOG (2025-12-16)
+- Fix lint and style issues (2025-12-18)
