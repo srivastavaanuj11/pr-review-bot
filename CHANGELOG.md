@@ -14,3 +14,4 @@ All notable changes to this project will be documented in this file.
 - Refactor review pipeline (2025-12-15)
 - Update CHANGELOG (2025-12-16)
 - Fix lint and style issues (2025-12-18)
+- Add tests for GitHub interface (2025-12-19)
