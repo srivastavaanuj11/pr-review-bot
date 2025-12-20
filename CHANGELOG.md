@@ -15,3 +15,4 @@ All notable changes to this project will be documented in this file.
 - Update CHANGELOG (2025-12-16)
 - Fix lint and style issues (2025-12-18)
 - Add tests for GitHub interface (2025-12-19)
+- Add tests for OpenAI interface (2025-12-20)
