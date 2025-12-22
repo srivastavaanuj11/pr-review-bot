@@ -16,3 +16,4 @@ All notable changes to this project will be documented in this file.
 - Fix lint and style issues (2025-12-18)
 - Add tests for GitHub interface (2025-12-19)
 - Add tests for OpenAI interface (2025-12-20)
+- Document environment variables (2025-12-22)
