@@ -18,3 +18,4 @@ All notable changes to this project will be documented in this file.
 - Add tests for OpenAI interface (2025-12-20)
 - Document environment variables (2025-12-22)
 - Improve logging (2025-12-23)
+- Update default prompts (2025-12-24)
