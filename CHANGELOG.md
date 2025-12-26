@@ -19,3 +19,4 @@ All notable changes to this project will be documented in this file.
 - Document environment variables (2025-12-22)
 - Improve logging (2025-12-23)
 - Update default prompts (2025-12-24)
+- Add support for local repo review (2025-12-26)
