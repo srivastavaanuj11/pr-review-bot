@@ -20,3 +20,4 @@ All notable changes to this project will be documented in this file.
 - Improve logging (2025-12-23)
 - Update default prompts (2025-12-24)
 - Add support for local repo review (2025-12-26)
+- Minor doc fixes (2025-12-27)
