@@ -21,3 +21,4 @@ All notable changes to this project will be documented in this file.
 - Update default prompts (2025-12-24)
 - Add support for local repo review (2025-12-26)
 - Minor doc fixes (2025-12-27)
+- Update dependencies (2025-12-28)
