@@ -22,3 +22,4 @@ All notable changes to this project will be documented in this file.
 - Add support for local repo review (2025-12-26)
 - Minor doc fixes (2025-12-27)
 - Update dependencies (2025-12-28)
+- Refactor CLI options (2025-12-30)
