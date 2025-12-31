@@ -23,3 +23,4 @@ All notable changes to this project will be documented in this file.
 - Minor doc fixes (2025-12-27)
 - Update dependencies (2025-12-28)
 - Refactor CLI options (2025-12-30)
+- Add metadata tests (2025-12-31)
