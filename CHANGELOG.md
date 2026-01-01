@@ -24,3 +24,4 @@ All notable changes to this project will be documented in this file.
 - Update dependencies (2025-12-28)
 - Refactor CLI options (2025-12-30)
 - Add metadata tests (2025-12-31)
+- Improve schema validation (2026-01-01)
