@@ -26,3 +26,4 @@ All notable changes to this project will be documented in this file.
 - Add metadata tests (2025-12-31)
 - Improve schema validation (2026-01-01)
 - Update Sphinx config (2026-01-03)
+- Tidy docstrings (2026-01-04)
