@@ -27,3 +27,4 @@ All notable changes to this project will be documented in this file.
 - Improve schema validation (2026-01-01)
 - Update Sphinx config (2026-01-03)
 - Tidy docstrings (2026-01-04)
+- Add .flake8 config (2026-01-05)
