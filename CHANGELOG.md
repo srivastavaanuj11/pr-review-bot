@@ -28,3 +28,4 @@ All notable changes to this project will be documented in this file.
 - Update Sphinx config (2026-01-03)
 - Tidy docstrings (2026-01-04)
 - Add .flake8 config (2026-01-05)
+- Update README badges (2026-01-07)
