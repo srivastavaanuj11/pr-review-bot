@@ -30,3 +30,4 @@ All notable changes to this project will be documented in this file.
 - Add .flake8 config (2026-01-05)
 - Update README badges (2026-01-07)
 - Changelog update (2026-01-08)
+- Small refactor in gh_interface (2026-01-09)
