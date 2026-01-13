@@ -33,3 +33,4 @@ All notable changes to this project will be documented in this file.
 - Small refactor in gh_interface (2026-01-09)
 - Clarify README installation (2026-01-11)
 - Update optional dependencies (2026-01-12)
+- Doc: fix typos (2026-01-13)
