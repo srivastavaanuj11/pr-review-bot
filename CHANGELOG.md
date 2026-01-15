@@ -34,3 +34,4 @@ All notable changes to this project will be documented in this file.
 - Clarify README installation (2026-01-11)
 - Update optional dependencies (2026-01-12)
 - Doc: fix typos (2026-01-13)
+- Improve exception messages (2026-01-15)
