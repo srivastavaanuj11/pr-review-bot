@@ -35,3 +35,4 @@ All notable changes to this project will be documented in this file.
 - Update optional dependencies (2026-01-12)
 - Doc: fix typos (2026-01-13)
 - Improve exception messages (2026-01-15)
+- Add type hints in misc (2026-01-16)
