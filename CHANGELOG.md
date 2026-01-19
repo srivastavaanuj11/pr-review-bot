@@ -37,3 +37,4 @@ All notable changes to this project will be documented in this file.
 - Improve exception messages (2026-01-15)
 - Add type hints in misc (2026-01-16)
 - Changelog: document recent changes (2026-01-17)
+- Update CI references in docs (2026-01-19)
