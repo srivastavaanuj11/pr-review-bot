@@ -38,3 +38,4 @@ All notable changes to this project will be documented in this file.
 - Add type hints in misc (2026-01-16)
 - Changelog: document recent changes (2026-01-17)
 - Update CI references in docs (2026-01-19)
+- Minor fixes from review (2026-01-20)
