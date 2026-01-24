@@ -41,3 +41,4 @@ All notable changes to this project will be documented in this file.
 - Minor fixes from review (2026-01-20)
 - Document CLI usage (2026-01-21)
 - Update license year (2026-01-23)
+- Changelog: unreleased section (2026-01-24)
