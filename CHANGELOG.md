@@ -42,3 +42,4 @@ All notable changes to this project will be documented in this file.
 - Document CLI usage (2026-01-21)
 - Update license year (2026-01-23)
 - Changelog: unreleased section (2026-01-24)
+- Finalize 0.2.dev0 (2026-01-25)
