@@ -44,3 +44,4 @@ All notable changes to this project will be documented in this file.
 - Changelog: unreleased section (2026-01-24)
 - Finalize 0.2.dev0 (2026-01-25)
 - Prepare for release (2026-01-27)
+- Post-release changelog (2026-01-28)
