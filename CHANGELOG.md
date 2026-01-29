@@ -45,3 +45,4 @@ All notable changes to this project will be documented in this file.
 - Finalize 0.2.dev0 (2026-01-25)
 - Prepare for release (2026-01-27)
 - Post-release changelog (2026-01-28)
+- Doc: improve overview (2026-01-29)
