@@ -46,3 +46,4 @@ All notable changes to this project will be documented in this file.
 - Prepare for release (2026-01-27)
 - Post-release changelog (2026-01-28)
 - Doc: improve overview (2026-01-29)
+- Update project URLs (2026-01-31)
