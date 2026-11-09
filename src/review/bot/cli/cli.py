@@ -22,7 +22,7 @@ def show_review(args):
     # Check if any config file was given
     if args.config is not None:
         config_file = args.config[0]
-        sugg = review_patch_local(repo_path, config_file)
+        sugg = review_patch_local(repo_path, config_file=config_file)
     else:
         sugg = review_patch_local(repo_path)
 

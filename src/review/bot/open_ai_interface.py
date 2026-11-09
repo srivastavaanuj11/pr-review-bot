@@ -66,13 +66,19 @@ def review_patch(
         if docs_only:
             file_src = f"FILENAME: {filename}\nCONTENT:\n{file_data['file_text']}"
             suggestions.extend(
-                generate_suggestions(filename, file_src, patch, config_file, docs_only=True)
+                generate_suggestions(
+                    filename, file_src=file_src, config_file=config_file, docs_only=True
+                )
             )
         elif use_src:
             file_src = f"FILENAME: {filename}\nCONTENT:\n{file_data['file_text']}"
-            suggestions.extend(generate_suggestions(filename, file_src, patch, config_file))
+            suggestions.extend(
+                generate_suggestions(
+                    filename, patch=patch, file_src=file_src, config_file=config_file
+                )
+            )
         else:
-            suggestions.extend(generate_suggestions(filename, patch))
+            suggestions.extend(generate_suggestions(filename, patch=patch, config_file=config_file))
         n_hits += 1
 
     if filter_filename is not None and n_hits < 1:
@@ -120,7 +126,9 @@ def review_folder(
         filename = file_data["filename"]
         if folder in filename:
             file_src = f"FILENAME: {filename}\nCONTENT:\n{file_data['file_text']}"
-            suggestions.extend(generate_suggestions(filename, file_src, config_file))
+            suggestions.extend(
+                generate_suggestions(filename, file_src=file_src, config_file=config_file)
+            )
     return suggestions
 
 
@@ -163,7 +171,9 @@ def review_file(
         if filename in file_data["filename"]:
             print(file_data["filename"])
             file_src = f"FILENAME: {filename}\nCONTENT:\n{file_data['file_text']}"
-            suggestions.extend(generate_suggestions(filename, file_src, config_file))
+            suggestions.extend(
+                generate_suggestions(filename, file_src=file_src, config_file=config_file)
+            )
             break
     return suggestions
 
@@ -213,10 +223,14 @@ def review_patch_local(
             continue
 
         if use_src:
-            file_src = f"FILENAME: {filename}\nCONTENT:\n{file_sources['file_text']}"
-            suggestions.extend(generate_suggestions(filename, file_src, patch, config_file))
+            file_src = f"FILENAME: {filename}\nCONTENT:\n{file_sources[filename]}"
+            suggestions.extend(
+                generate_suggestions(
+                    filename, patch=patch, file_src=file_src, config_file=config_file
+                )
+            )
         else:
-            suggestions.extend(generate_suggestions(filename, patch))
+            suggestions.extend(generate_suggestions(filename, patch=patch, config_file=config_file))
         n_hits += 1
 
     if filter_filename is not None and n_hits < 1:
